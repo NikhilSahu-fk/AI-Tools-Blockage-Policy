@@ -22,7 +22,7 @@ Prerequisites
 
 Ensure you have the following installed:
 
-Python (>=3.11)
+Python (>=3.9)
 
 Pip (Python package manager)
 
